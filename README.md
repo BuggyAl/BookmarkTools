@@ -1,19 +1,17 @@
 # **SchoolTools**
 
-A collection of ```JavaScript``` bookmarks to assist you in class.
+A collection of JavaScript bookmarks to assist you in class.
 
 *JavaScript MUST be enabled in your browser for this to work!*
 
 ## **Usage**
 
-In order to use these quick functions, you will need to create a **bookmark** to run the ```JavaScript``` in your browser. In order to properly use these functions:
+In order to use these quick functions, you will need to create a **bookmark** to run the JavaScript in your browser. In order to properly use these functions:
 
 - Create a new bookmark
 - Edit the **URL** of the bookmark to:
 
-~~~URL_Example
-javascript:PASTE_CODE_HERE
-~~~
+```javascript:PASTE_CODE_HERE```
 
 - Run the bookmark and enjoy!
 
