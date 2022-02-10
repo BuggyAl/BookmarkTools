@@ -1,6 +1,6 @@
-# **SchoolTools**
+# **BookmarkTools**
 
-A collection of JavaScript bookmarks to assist you in class.
+A collection of JavaScript bookmarks to assist you in everyday life.
 
 *JavaScript MUST be enabled in your browser for this to work!*
 
