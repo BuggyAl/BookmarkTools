@@ -1,5 +1,5 @@
-function evalEquation() {
-    const expression = String(prompt("Enter your equation!"));
-    alert(eval(expression))
+function evalEquation() {    
+    const equation = String(prompt("Enter your equation!"));    
+    alert("The answer is: " + eval(equation));
 }
-evalEquation()
+evalEquation();
