@@ -9,9 +9,7 @@ A collection of JavaScript bookmarks to assist you in class.
 In order to use these quick functions, you will need to create a **bookmark** to run the JavaScript in your browser. In order to properly use these functions:
 
 - Create a new bookmark
-- Edit the **URL** of the bookmark to:
-
-```javascript:PASTE_CODE_HERE```
+- Edit the **URL** of the bookmark to: ```javascript:PASTE_CODE_HERE```
 
 - Run the bookmark and enjoy!
 
