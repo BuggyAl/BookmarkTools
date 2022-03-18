@@ -20,7 +20,11 @@ function simplifyRadical(full) {
         outer = Math.sqrt(maxSquareFactor);
         inner = full / i;
     }
-    return outer + "√" + inner;
+    if (outer != 1) {
+        return outer + "√" + inner;   
+    } else {
+        return "√" + inner;
+    }
 }
 
 function isSquare (n) {
