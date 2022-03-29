@@ -1,3 +1,7 @@
+// 
+// javascript:fetch("https://raw.githubusercontent.com/BuggyAl/BookmarkTools/main/Algebra/SimplifyRadical.js").then((res) => res.text().then((t) => eval(t)))
+//
+
 function simplifyRadical() {    
     const full = eval(String(prompt("Please enter the number in the radical!")));
     let maxSquareFactor = 0;
