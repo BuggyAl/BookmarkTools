@@ -14,5 +14,3 @@ In order to use these quick functions, you will need to create a **bookmark** to
 4. Run the bookmark and enjoy!
 
 Alternatively, you can also run this in through the **search bar** by typing in the URL above into the bar!
-
-- As of March 29, 2022, all code has fetch requests at the top for people to use instead of the code itself.
