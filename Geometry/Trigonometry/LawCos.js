@@ -1,3 +1,7 @@
+// 
+// javascript:fetch("https://raw.githubusercontent.com/BuggyAl/BookmarkTools/main/Geometry/Trigonometry/LawCos.js").then((res) => res.text().then((t) => eval(t)))
+//
+
 function lawCos() {    
     const a = eval(String(prompt("Please enter the expression of leg #1!")));
     const b = eval(String(prompt("Please enter the expression of leg #2!")));

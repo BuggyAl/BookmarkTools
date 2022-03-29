@@ -1,3 +1,7 @@
+// 
+// javascript:fetch("https://raw.githubusercontent.com/BuggyAl/BookmarkTools/main/Geometry/PythagoeranTheorem.js").then((res) => res.text().then((t) => eval(t)))
+//
+
 function pythagoreanTheorem() {        
     const num1 = eval(String(prompt("Please enter the expression of leg #1!")));    
     const num2 = eval(String(prompt("Please enter the expression of leg #2!")));    
