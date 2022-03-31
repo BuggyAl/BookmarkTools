@@ -1,5 +1,5 @@
 // 
-// javascript:fetch("https://raw.githubusercontent.com/BuggyAl/BookmarkTools/main/Geometry/PythagoeranTheorem.js").then((res) => res.text().then((t) => eval(t)))
+// javascript:fetch("https://raw.githubusercontent.com/BuggyAl/BookmarkTools/main/Geometry/PythagoreanTheorem.js").then((res) => res.text().then((t) => eval(t)))
 //
 
 function pythagoreanTheorem() {        
