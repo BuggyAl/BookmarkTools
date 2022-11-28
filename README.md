@@ -1,6 +1,6 @@
 # **BookmarkTools**
 
-A collection of JavaScript bookmarks to assist you in everyday life.
+A collection of JavaScript bookmarks to assist you in math class.
 
 *JavaScript MUST be enabled in your browser for this to work!*
 
